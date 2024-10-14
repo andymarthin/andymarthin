@@ -4,7 +4,7 @@
 
 <br />
 <div>
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andymarthin&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andymarthin&layout=compact&theme=dark&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos</small>
   <br />
@@ -17,7 +17,7 @@
   <img
     align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=andymarthin&theme=dark"
-    alt="anii693"
+    alt="andymarthin"
   />
 </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
