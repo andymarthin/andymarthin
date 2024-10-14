@@ -3,13 +3,14 @@
 🌱 I’m **Back End Developer**
 
 <br />
-<p>
-  &nbsp;<img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=andymarthin&show_icons=true&theme=dark&locale=en"
-    alt="andymarthin"
-  />
-</p>
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos</small>
+  <br />
+  <br />
+</div>
+
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p>
