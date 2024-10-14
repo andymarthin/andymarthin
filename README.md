@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Andy Marthin</h1>
 
-🌱 I’m **Back End Developer**
 
-<br />
 
 <div align="center">
+  
+  🌱 I’m **Back End Engineer**
+
+<br />
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andymarthin&layout=compact&theme=dark&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos</small>
