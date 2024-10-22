@@ -26,6 +26,7 @@
 </div>
 
 <br /><br /><br /><br />
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,ts,react,nextjs,redux,postgres,ansible,aws,gcp,docker,redis)](https://skillicons.dev)
 <hr width="60%" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
