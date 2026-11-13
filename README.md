@@ -37,7 +37,7 @@
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://ghstats.dev/api/card?username=andymarthin&theme=tokyonight&hide_border=true" alt="GitHub Stats Card" /></div>  
+<div align="center"><img src="https://ghstats.dev/api/card?username=andymarthin&theme=tokyonight&hide_border=true&hide=stars,followers" alt="GitHub Stats Card" /></div>  
 
 <br/>  
 
